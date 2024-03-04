@@ -19,5 +19,5 @@
 ### 6 -test with openapi
 [swagger](ScreenShot/9.png)
 ### 7 -test with postman
-[swagger](ScreenShot/10.png)
+[postman](ScreenShot/10.png)
 
