@@ -1,5 +1,4 @@
 
-
 # Développement d'un micro service
 ### 1 - create Customer & BankAccount Entities
 [Customer Entity](ScreenShot/12.png )<br>
@@ -19,5 +18,19 @@
 ### 6 -test with openapi
 [swagger](ScreenShot/9.png)
 ### 7 -test with postman
-[postman](ScreenShot/10.png)
+[swagger](ScreenShot/10.png)
+### 8-browser test
+[browserTest](ScreenShot/bro.png)
 
+# Partie GraphQl
+### 9-Schema GraphQl
+[schema](ScreenShot/sc.png)
+### 10-Controller GraphQl
+[Controller](ScreenShot/ctG.png)
+### 11-Test GraphQl
+[ListDesAccount](ScreenShot/1.png)<br>
+[AccountById](ScreenShot/3.png)<br>
+[AccountByIdException](ScreenShot/4.png)<br>
+[AddAccount](ScreenShot/5.png)<br>
+[UpdateAccount](ScreenShot/6.png)
+[DeleteAccount](ScreenShot/7.png)
